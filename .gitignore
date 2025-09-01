@@ -1,0 +1,9 @@
+Salve este bloco em .gitignore no root do projeto
+__pycache__/
+*.pyc
+.venv/
+env/
+output/
+*.parquet
+.ipynb_checkpoints/
+.DS_Store
